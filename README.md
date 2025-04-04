@@ -4,5 +4,5 @@ Une fonctionnalité est implémentée pour générer des voitures numérotées, 
 Les feux de signalisation sont également intégrés dans le projet. Ils fonctionnent avec les durées suivantes :
 -	Feu vert : 20 secondes
 -	Feu orange : 3 secondes
--	Feu rouge : 15 secondes
+-	Feu rouge : 8 secondes
 Les voitures adaptent leur comportement en fonction des feux : elles avancent si un feu vert se trouve devant elles, ralentissent en cas de feu orange, et s'arrêtent lorsqu'un feu rouge est sur leur chemin. Lorsqu'une voiture atteint sa destination, elle s'arrête pendant 3 secondes, puis disparaît avec l'indication de sa destination. 
